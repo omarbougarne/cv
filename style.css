@@ -1,0 +1,16 @@
+body{
+    background: #ffffcc;
+}
+h2, h3{
+    text-align: center;
+}
+img{
+    margin-left: 70%;
+}
+label, span{
+    margin-bottom: 2em;
+}
+.h{
+    text-align: left;
+    background: grey;
+}
